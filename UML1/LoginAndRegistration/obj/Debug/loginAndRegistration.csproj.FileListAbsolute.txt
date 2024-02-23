@@ -1,0 +1,11 @@
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\bin\Debug\1tj.exe.config
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\bin\Debug\1tj.exe
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\bin\Debug\1tj.pdb
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\obj\Debug\loginAndRegistration.csproj.AssemblyReference.cache
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\obj\Debug\_1tj.LogIn.resources
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\obj\Debug\_1tj.Properties.Resources.resources
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\obj\Debug\loginAndRegistration.csproj.GenerateResource.cache
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\obj\Debug\loginAndRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\obj\Debug\1tj.exe
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\obj\Debug\1tj.pdb
+C:\Users\Matea Klement\Desktop\1tj\1tj\1tj\obj\Debug\_1tj.Registration.resources

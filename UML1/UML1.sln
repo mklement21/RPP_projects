@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voting", "Voting\Voting.csproj", "{512437D0-722F-43FD-B1B0-61C85E90F4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyConverter", "MoneyConverter\MoneyConverter.csproj", "{951BD52E-F4A0-448C-98FC-D16985B7E2AA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UML", "UML", "{FD60C721-B9EC-4B7E-9AFE-B59711A32948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512437D0-722F-43FD-B1B0-61C85E90F4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512437D0-722F-43FD-B1B0-61C85E90F4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512437D0-722F-43FD-B1B0-61C85E90F4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512437D0-722F-43FD-B1B0-61C85E90F4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951BD52E-F4A0-448C-98FC-D16985B7E2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951BD52E-F4A0-448C-98FC-D16985B7E2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951BD52E-F4A0-448C-98FC-D16985B7E2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951BD52E-F4A0-448C-98FC-D16985B7E2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{512437D0-722F-43FD-B1B0-61C85E90F4C2} = {FD60C721-B9EC-4B7E-9AFE-B59711A32948}
+		{951BD52E-F4A0-448C-98FC-D16985B7E2AA} = {FD60C721-B9EC-4B7E-9AFE-B59711A32948}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14A06495-1FEC-4F7B-9220-3115E045CDA2}
+	EndGlobalSection
+EndGlobal
